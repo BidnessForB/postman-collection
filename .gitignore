@@ -43,3 +43,4 @@ Thumbs.db
 
 # Benchmark is now obsolete (since 3.5.0)
 /test/benchmark
+/benchmark
