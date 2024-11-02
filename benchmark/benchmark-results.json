@@ -5,45 +5,45 @@
       "scenarios": [
         {
           "name": "single constant dynamic variable",
-          "executions": 411989,
-          "time": 12136.21698637585,
-          "error": 2.9153562603877248
+          "executions": 745606,
+          "time": 6705.948242101056,
+          "error": 0.15679904010425377
         },
         {
           "name": "two constant dynamic variables",
-          "executions": 223254,
-          "time": 22395.94219588451,
-          "error": 0.5184261312204904
+          "executions": 358113,
+          "time": 13962.044159245825,
+          "error": 0.19436470151861904
         },
         {
           "name": "four constant dynamic variables",
-          "executions": 96120,
-          "time": 52018.067613399915,
-          "error": 0.7425831865647227
+          "executions": 119591,
+          "time": 41808.89130452961,
+          "error": 0.35896286921417736
         },
         {
           "name": "eight constant dynamic variables",
-          "executions": 73825,
-          "time": 67727.10917710802,
-          "error": 0.6059831169932062
+          "executions": 87718,
+          "time": 57000.43626165667,
+          "error": 0.34331713396434627
         },
         {
           "name": "sixteen constant dynamic variables",
-          "executions": 59716,
-          "time": 83729.05474244758,
-          "error": 0.8958354666864753
+          "executions": 60788,
+          "time": 82252.9854412055,
+          "error": 0.2335175251423224
         },
         {
           "name": "thirty-two constant dynamic variables",
-          "executions": 19165,
-          "time": 260888.65687451084,
-          "error": 0.6319144162829673
+          "executions": 28190,
+          "time": 177366.25207520399,
+          "error": 0.342041743688458
         },
         {
           "name": "sixty-four constant dynamic variables",
-          "executions": 8866,
-          "time": 563898.6565531243,
-          "error": 68.6127576990454
+          "executions": 20001,
+          "time": 249985.43222838858,
+          "error": 0.27052626279428327
         }
       ]
     }
